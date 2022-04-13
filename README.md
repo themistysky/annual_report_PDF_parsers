@@ -59,23 +59,21 @@ Make sure that the columns have the rights types.
 
 
 
-  - works from a fresh project, to do so
-    - clone the repo , e.g.
-      - `git clone git@github.com:Wequity/FUSA_pdf_parser_py.git fresh_test`
-      - `cd fresh_test`
-    - create a new environment and install all dependencies, e.g.
-      - create the environment `python3 -m venv .env`
-      - activate it `.env/bin/activate `
-      - install the requirements `pip install -r requirements.txt`
-    - create outputs folder if needed, e.g.
-      - `mkdir pdf`
-    - run yout code, e.g.
-      - `FUSA_pdf_parser_py % python src/aviva/parser.py -i input_files/aviva.csv -o res/aviva_results.csv -p pdf`
+## Setup
+  - clone the repo , e.g.
+    - `git clone https://github.com/themistysky/annual_report_PDF_parsers.git report_parser`
+    - `cd report_parser`
+  - create a new environment and install all dependencies, e.g.
+    - create the environment `python3 -m venv env`
+    - activate it `env\Scripts\activate` (for linux - `source env/bin/activate`
+    - install the requirements `pip install -r requirements.txt`
+  - run yout code, e.g.
+    - `python src/aviva/parser.py -i input_files/aviva.csv -o res/aviva_results.csv -p pdf`
    
 
 ### Usage
 
-Each parser should have the following arguments:
+Arguments:
 
 - `-i input_file_path` the path to the CSV input file, with format as specified above
   - e.g. `-i input_files/aviva.csv`
@@ -85,4 +83,4 @@ Each parser should have the following arguments:
   - e.g. `-p pdf`
 
 So, e.g., the script would be executed with the command 
-`FUSA_pdf_parser_py % python src/aviva/parser.py -i input_files/aviva.csv -o res/aviva_results.csv -p pdf`
+`python src/aviva/parser.py -i input_files/aviva.csv -o res/aviva_results.csv -p pdf`
