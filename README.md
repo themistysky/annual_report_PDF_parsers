@@ -104,9 +104,9 @@ Folder names are according to the respective fund codes
 
 Arguments:
 
-- `-i input_file_path` the path to the CSV input file, with format as specified above
+- `-i input_file_path` the path to the input CSV file
   - e.g. `-i input_files/aviva.csv`
-- `-o output_file_path` the path to the CSV output file which will be created by the parser, with format as specified above
+- `-o output_file_path` the path to the output CSV file
   - e.g. `-o res/aviva_results.csv`
 - `-p pdf_folder_path` the path to the folder in which to store downloaded PDF reports, if needed
   - e.g. `-p pdf`
@@ -123,4 +123,7 @@ So, e.g., the script would be executed with the command
 - Program creates a metadata file `pdf_folder_path/pdf_names.csv` after downloading the PDFs, which is a modified version of the input file. This can be used as an input file to run the parser for second time onwards to avoid downloading the reports again.
 
 
-###### <i>Thanks</i>  
+<br>  
+<br>  
+
+###### <i>Manners Maketh Man</i>  
