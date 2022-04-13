@@ -1,0 +1,33 @@
+Crelan - 150
+	holding name issues (improper encoding)
+Banque - 50
+	holding name issues
+BNP - 75
+	CRELAN PENSION FUND SUSTAINABLE GROWTH
+	BNPPF PRIVATE SUSTAINABLE DEFENSIVE
+	BNPPF PRIVATE SUSTAINABLE BALANCED
+	BNPPF PRIVATE DEFENSIVE
+	BNPPF PRIVATE BALANCED
+	BNP PARIBAS B STRATEGY GLOBAL SUSTAINABLE NEUTRAL
+	BNP PARIBAS B STRATEGY GLOBAL SUSTAINABLE DEFENSIVE
+Carmignac - 50
+	holding name issues
+	small accuracy problems (less than 0.05%)
+Oddo - 75
+	holding name issues
+	funds compromised
+Comgest - 50
+	holding name issues
+	accuracy in 4 funds
+mandarine - 50
+	small accuracy probelms(less than 0.05%)
+Mirova - 50
+	No actual problems
+Pictet - 25
+	PDF link not working now
+Scor - 50
+	holding name issues
+	1 holding name accuracy error (0.07%)
+Four - 50
+	No issues
+
