@@ -65,9 +65,9 @@ Make sure that the columns have the rights types.
 | TOBAM (FR) | tobam |
 | Varenne capital | varenna |  
 <br>
-Folder names are according to the respective fund codes
+Folder names are according to the respective fund codes  
 
-
+<br>
 ## Program Flow
 
 1. Open the input CSV file
@@ -75,11 +75,11 @@ Folder names are according to the respective fund codes
 3. In the PDF, find the exact table about the fund, as a single report may contain info about multiple funds
 4. Parse the found table
 5. Format the table according to the output format
-6. Save the table as CSV
+6. Save the table as CSV  
 
 
 
-
+<br>
 ## Setup
   - clone the repo , e.g.
     - `git clone https://github.com/themistysky/annual_report_PDF_parsers.git report_parser`
@@ -91,7 +91,7 @@ Folder names are according to the respective fund codes
   - run yout code, e.g.
     - `python src/aviva/parser.py -i input_files/aviva.csv -o res/aviva_results.csv -p pdf`
    
-
+<br>  
 ### Usage
 
 Arguments:
@@ -104,9 +104,9 @@ Arguments:
   - e.g. `-p pdf`
 
 So, e.g., the script would be executed with the command 
-`python src/aviva/parser.py -i input_files/aviva.csv -o res/aviva_results.csv -p pdf`
+`python src/aviva/parser.py -i input_files/aviva.csv -o res/aviva_results.csv -p pdf`  
 
-
+<br>  
 ## Comments
 - Some sample input files are given in `input_files` folder 
 - Some sample output CSV files are given in `res` folder 
