@@ -43,26 +43,29 @@ Make sure that the columns have the rights types.
 | ----------------- | ------------------------------------------ | ---------------------------------------------------- | ------------ | ---------------------------------- | ---------------- | ------------ | -------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | Aviva             | Aviva Investors - Global Convertibles Fund | Aviva Investors Global Convertibles Fund Iah GBP Inc | LU0367993150 | China Education GroupHoldings Ltd. | 30 000 000.00    | HKD          | 1.18           | https://doc.morningstar.com/document/3bbb01b8cb5c4ecf8ca0f3f12d5aa846.msdoc/?clientId=avivainvestors&key=0011b526a18a80ef |
 | Aviva             | Aviva Investors - Global Convertibles Fund | Aviva Investors Global Convertibles Fund Iah GBP Inc | LU0367993150 | Harvest International Co.          | 20 000 000.00    | HKD          | 0.98           | https://doc.morningstar.com/document/3bbb01b8cb5c4ecf8ca0f3f12d5aa846.msdoc/?clientId=avivainvestors&key=0011b526a18a80ef |
-| Aviva             | Aviva Investors - Global Convertibles Fund | Aviva Investors Global Convertibles Fund Iah GBP Inc | LU0367993150 | Kingsoft Corp. Ltd.                | 15 000 000.00    | HKD          | 0.76           | https://doc.morningstar.com/document/8b359978a2c0c810eafc0e2f90ddd3d9.msdoc/?clientId=avivainvestors&key=0011b526a18a80ef |
+| Aviva             | Aviva Investors - Global Convertibles Fund | Aviva Investors Global Convertibles Fund Iah GBP Inc | LU0367993150 | Kingsoft Corp. Ltd.                | 15 000 000.00    | HKD          | 0.76           | https://doc.morningstar.com/document/8b359978a2c0c810eafc0e2f90ddd3d9.msdoc/?clientId=avivainvestors&key=0011b526a18a80ef |  
+
+<br>  
 
 ## Metadata
 | **Fund provider**             | **Fund code**   |
 | ----------------- | ------------- |
 | Amundi Asset Management (FR)	| amundi |
 | Aviva |	aviva |
-
-Capital At Work	capitalatwork	Akash	Done
-Carmignac (FR)	carmignac_fr	Akash	Done
-Crelan	crelan	Akash	Done
-FOURPOINTS Investment Managers	four	Akash	Done
-La banque postale AM	banque?	Akash	Done
-Mandarine gestion	mandarin	Akash	Done
-MIROVA	mirova	Akash	Done
-Pictet (FR)	pictet	Akash	Done
-Rothschild Asset Management (FR)	roth	Akash	Done
-SCOR Investment Partners	scor	Akash	Done
-TOBAM (FR)	tobam	Akash	Done
-Varenne capital	varenna	Akash	Done
+| Capital At Work |	capitalatwork	|
+| Carmignac (FR) |	carmignac_fr |
+| Crelan	| crelan |
+| FOURPOINTS Investment Managers | four |
+| La banque postale AM | banque |
+| Mandarine gestion	| mandarin |
+| MIROVA | mirova |
+| Pictet (FR) |	pictet |
+| Rothschild Asset Management (FR) | roth |
+| SCOR Investment Partners | scor |
+| TOBAM (FR) | tobam |
+| Varenne capital | varenna |  
+<br>
+Folder names are according to the respective fund codes
 
 
 ## Program Flow
