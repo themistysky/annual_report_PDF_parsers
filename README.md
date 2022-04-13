@@ -67,7 +67,8 @@ Make sure that the columns have the rights types.
 <br>
 Folder names are according to the respective fund codes  
 
-<br>
+<br>  
+
 ## Program Flow
 
 1. Open the input CSV file
@@ -79,7 +80,8 @@ Folder names are according to the respective fund codes
 
 
 
-<br>
+<br>  
+
 ## Setup
   - clone the repo , e.g.
     - `git clone https://github.com/themistysky/annual_report_PDF_parsers.git report_parser`
@@ -92,6 +94,7 @@ Folder names are according to the respective fund codes
     - `python src/aviva/parser.py -i input_files/aviva.csv -o res/aviva_results.csv -p pdf`
    
 <br>  
+
 ### Usage
 
 Arguments:
@@ -107,6 +110,7 @@ So, e.g., the script would be executed with the command
 `python src/aviva/parser.py -i input_files/aviva.csv -o res/aviva_results.csv -p pdf`  
 
 <br>  
+
 ## Comments
 - Some sample input files are given in `input_files` folder 
 - Some sample output CSV files are given in `res` folder 
