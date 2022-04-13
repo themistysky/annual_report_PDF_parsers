@@ -84,3 +84,11 @@ Arguments:
 
 So, e.g., the script would be executed with the command 
 `python src/aviva/parser.py -i input_files/aviva.csv -o res/aviva_results.csv -p pdf`
+
+
+## Comments
+- Some sample input files are given in `input_files` folder 
+- Some sample output CSV files are given in `res` folder 
+- Some sample downloaded reports in PDF are given in `pdf` folder 
+- Program creates a metadata file `pdf_folder_path/pdf_names.csv` after downloading the PDFs, which is a modified version of the input file. This can be used as an input file to run the parser for second time onwards to avoid downloading the reports again.
+
