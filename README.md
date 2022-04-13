@@ -80,7 +80,7 @@ Folder names are according to the respective fund codes
 2. Download the PDF linked to the fund
 3. In the PDF, find the exact table about the fund, as a single report may contain info about multiple funds
 4. Parse the found table
-5. Format the table according to the output format
+5. Clean the table and format it according to the output table format
 6. Save the table as CSV  
 
 
@@ -122,3 +122,5 @@ So, e.g., the script would be executed with the command
 - Some sample downloaded reports in PDF are given in `pdf` folder 
 - Program creates a metadata file `pdf_folder_path/pdf_names.csv` after downloading the PDFs, which is a modified version of the input file. This can be used as an input file to run the parser for second time onwards to avoid downloading the reports again.
 
+
+###### <i>Thanks</i>  
