@@ -63,7 +63,12 @@ Make sure that the columns have the rights types.
 | Rothschild Asset Management (FR) | roth |
 | SCOR Investment Partners | scor |
 | TOBAM (FR) | tobam |
-| Varenne capital | varenna |  
+| Varenne capital | varenna | 
+| ODDO BHF Asset Management SAS (FR) | oddo |
+| Comgest (FR) | comgest |
+| BNP Paribas Asset Management (FR) | bnp |
+| DPAM (BE) | dpam |  
+
 <br>
 Folder names are according to the respective fund codes  
 
