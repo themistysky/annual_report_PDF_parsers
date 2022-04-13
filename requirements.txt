@@ -1,0 +1,10 @@
+pycountry
+numpy
+pandas
+pdfminer.six
+tabula-py
+PyPDF2
+requests
+country_list
+selenium
+webdriver-manager
