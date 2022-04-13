@@ -48,7 +48,7 @@ Make sure that the columns have the rights types.
 <br>  
 
 ## Metadata
-| **Fund provider**             | **Fund code**   |
+| **Fund provider/ Company Name** | **Fund code**   |
 | ----------------- | ------------- |
 | Amundi Asset Management (FR)	| amundi |
 | Aviva |	aviva |
