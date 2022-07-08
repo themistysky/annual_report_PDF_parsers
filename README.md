@@ -35,8 +35,6 @@ The output is a CSV table with columns:
 - `pdf_url`: the URL from where to fetch the fund's annual report, copied from the input file
 
 
-Make sure that the columns have the rights types.
-
 ### Example
 
 | **fund_provider** | **fund_name_report**                       | **fund_name_website**                                | **isin**     | **holding_name**                   | **market_value** | **currency** | **net_assets** | **pdf_url**                                                                                                               |
@@ -117,13 +115,11 @@ So, e.g., the script would be executed with the command
 <br>  
 
 ## Comments
-- Some sample input files are given in `input_files` folder 
-- Some sample output CSV files are given in `res` folder 
-- Some sample downloaded reports in PDF are given in `pdf` folder 
-- Program creates a metadata file `pdf_folder_path/pdf_names.csv` after downloading the PDFs, which is a modified version of the input file. This can be used as an input file to run the parser for second time onwards to avoid downloading the reports again.
+ - Some sample input files are given in `input_files` folder 
+ - Some sample output CSV files are given in `res` folder 
+ - Some sample downloaded reports in PDF are given in `pdf` folder 
+ - Program creates a metadata file `pdf_folder_path/pdf_names.csv` after downloading the PDFs, which is a modified version of the input file. This can be used as an input file to run the parser for second time onwards to avoid downloading the reports again.
 
 
 <br>  
 <br>  
-
-###### <i>Manners Maketh Man</i>  
